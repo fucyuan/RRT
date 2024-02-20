@@ -544,10 +544,13 @@ end for
 **RRT*算法与RRT算法的区别主要在于两点：**
 
 - rewire的过程。即为$( x_{new} )$ 重新选择父节点的过程；
+  
 ![Alt text](picture/image-26.png)
 
 - 随机树重布线的过程；
+
 ![Alt text](picture/image-27.png)
+
 ![Alt text](picture/image-28.png)
 ## Informed RRT*
 
